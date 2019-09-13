@@ -1,0 +1,17 @@
+{
+  "name": "boot01",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "repository": "https://github.com/joaosl33p/BootDiscordTesst.git",
+  "author": "João Gustavo <joaosl33p@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.2"
+  }
+}
